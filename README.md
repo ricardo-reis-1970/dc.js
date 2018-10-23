@@ -12,3 +12,5 @@ You're welcome to reuse these snippets. Should you find yourself as the target o
   3. my kidneys are great, but thanks anyway
 
 Each folder will, to the best of my capacity, be a self contained pod, with all the necessary code and either the data files or links to retreive them, typically in Github. By _necessary_ I don't mean JavaScript libraries, of course. I typically download them, in order to allow me to still work offline / on the road. I'll try and keep a commented CDN / original rep link, but no promises.
+
+This is my first Github rep. This is my first `.md` file. I'm still to learn how to upload stuff in here. Wish me luck.
